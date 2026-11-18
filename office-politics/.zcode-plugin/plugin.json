@@ -1,0 +1,7 @@
+{
+  "name": "office-politics",
+  "version": "0.1.0",
+  "description": "基于《官僚体制的政治》（戈登·塔洛克）的职场局势分析技能：交接、同事、领导、汇报、晋升、带团队等场景的利益与信息流分析",
+  "author": { "name": "APX103" },
+  "skills": "./skills"
+}
